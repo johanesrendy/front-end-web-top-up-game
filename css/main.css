@@ -1,0 +1,148 @@
+body {
+    margin: 0px;
+    background-color: grey;
+}
+
+.container {
+    width: 98%;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 40px;
+    background-color: black;
+}
+
+.logo {
+    font-size: 38px;
+    float: left;
+    margin-left: 25px;
+    color: aliceblue;
+    font-family: 'Righteous';
+}
+
+.navigation {
+    float: right;
+}
+
+.navigation li {
+    float: right;
+    margin-left: 25px;
+    display: block;
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+.navigation li a {
+    color: #8f9193;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.navigation li a:hover {
+    color: aliceblue;
+}
+
+.searchbox input {
+    width: 400px;
+    font-size: 20px;
+}
+
+.searchbox img {
+    width: 14px;
+    padding: 2px;
+}
+
+.icon-class {
+    width: 150px;
+    height: 150px;
+    background-image: url('https://play-lh.googleusercontent.com/M9_okpLdBz0unRHHeX7FcZxEPLZDIQNCGEBoql7MxgSitDL4wUy4iYGQxfvqYogexQ');
+    background-size: cover;
+    border-radius: 20%;
+}
+
+.icon-class2 {
+    width: 150px;
+    height: 150px;
+    background-image: url('https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg');
+    background-size: cover;
+    border-radius: 20%;
+}
+
+.icon-class3 {
+    width: 150px;
+    height: 150px;
+    background-image: url('https://play-lh.googleusercontent.com/QdITH90pFqqsvk9DZ5rY42ZUWMoLD5hoQbdAcqbPupijpEB3o3zaIncRIOHoEbShZHg=w240-h480-rw');
+    background-size: cover;
+    border-radius: 20%;
+}
+
+.table th {
+    padding: 35px;
+}
+
+.table a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Unbounded';
+    border-radius: 20px
+}
+
+.table a:hover {
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.image {
+    width: 700px;
+}
+
+.advantage {
+    color: white;
+    background: black;
+    padding: 40px;
+}
+
+.listadvantage {
+    margin: 50px;
+}
+
+.titlecolor {
+    color: green;
+}
+
+.table2 th,
+td {
+    text-align: center;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    line-height: 50px;
+    background: #000000;
+    color: #fff;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
+
+.login1 {
+    margin: auto;
+    font-size: 20px;
+    width: 30%;
+    border-radius: 5px;
+    background: #fff;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.login1,
+input {
+    text-align: center;
+}
